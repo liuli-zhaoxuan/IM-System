@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Chat">
+        <file>icon/Chat/exit.png</file>
+    </qresource>
+    <qresource prefix="/Login">
+        <file>icon/Login/exit.png</file>
+    </qresource>
+</RCC>
